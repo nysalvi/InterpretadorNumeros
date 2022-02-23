@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterpretadorNumeros", "InterpretadorNumeros.ConsoleApp\InterpretadorNumeros.csproj", "{48915005-C8AE-4D27-B239-7D1CC4888D86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tentativa2", "Tentativa2\Tentativa2.csproj", "{FB3A75AC-6474-47CB-BF74-8E177AA9038F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48915005-C8AE-4D27-B239-7D1CC4888D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48915005-C8AE-4D27-B239-7D1CC4888D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48915005-C8AE-4D27-B239-7D1CC4888D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48915005-C8AE-4D27-B239-7D1CC4888D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3A75AC-6474-47CB-BF74-8E177AA9038F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3A75AC-6474-47CB-BF74-8E177AA9038F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3A75AC-6474-47CB-BF74-8E177AA9038F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3A75AC-6474-47CB-BF74-8E177AA9038F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EC1AEF5-CB42-4C2E-8C8A-F880B888C672}
+	EndGlobalSection
+EndGlobal
